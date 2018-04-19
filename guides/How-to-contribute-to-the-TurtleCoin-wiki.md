@@ -1,14 +1,16 @@
 # Thanks
 
-Firstly thanks for stopping by this guide and considering to contribute to the documentation for the TurtleCoin project. This is an open-source project that continues to move forward through the contributions of others. If documentation is your thing and you are not familiar with git or GitHub, then this is the place to get up to speed and your work will be published in no time.
+Firstly thanks for stopping by this guide and considering to contribute to the documentation for the TurtleCoin project. This is an open-source project that continues to move forward from the contributions of others. If documentation is your thing and you are not familiar with git or GitHub, then this is the place to get up to speed and your work will be published in no time.
 
 # Let's get started
 
-You ideally need to install git _(command line interface needed, none of the GUIs I've used allows access to all the commands being used)_ and be able to push and pull from your repo.
+You will need a GitHub account, make sure you have one and are logged into the GitHub website.
+
+You'll need git _(command line interface needed, none of the GUIs allows access to all the commands being used, it is a bit tedious typing the commands, however, they become second nature with enough edits.)_ and be able to push and pull from your repo.
 
     TODO: Explain how to do that ^^ since that requires whole guides, that isn't be covered here.
 
-Right now that you have access to git and can pull and push to your repos on GitHub let's continue with how to create/update/re-arrange content for the TurtleCoin wiki.
+Right now that you have access to git and can pull from/push to your repos on GitHub let's continue with how to create/update/re-arrange content for the TurtleCoin wiki.
 
 ### Hold up I just want to fix a typo
 
@@ -44,17 +46,18 @@ These are the commands and the workflow. Further down in the guide why and expla
 1. fork the repo
 2. clone the repo locally
 3. add wiki repo remote
-4. push repo to wiki repo
-5. setup a new branch
-6. make changes
-7. push to wiki repo
-8. continue editing on GitHub
-9. pull wiki repo back down locally
-10. make changes again locally
-11. push changes back to wiki repo to visually inspect everything
-12. make changes on GitHub
-13. all done, now clean up
-14. make sure wiki repo and repo are the same
-15. sqaush all changes into a single commit
-16. create PR
-17. done
+4. add turtlecoin-wiki upstream repo
+5. push repo to wiki repo
+6. setup a new branch
+7. make changes
+8. push to wiki repo
+9. continue editing on GitHub
+10. pull wiki repo back down locally
+11. make changes again locally
+12. push changes back to wiki repo to visually inspect everything
+13. make changes on GitHub
+14. all done, now clean up
+15. make sure wiki repo and repo are the same
+16. squash all changes into a single commit
+17. create PR
+18. done
