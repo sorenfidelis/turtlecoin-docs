@@ -8,7 +8,7 @@ You will need a GitHub account, make sure you have one and are logged into the G
 
 You'll need git _(command line interface needed, none of the GUIs allows access to all the commands being used, it is a bit tedious typing the commands, however, they become second nature with enough edits.)_ and be able to push and pull from your repo.
 
-    TODO: Explain how to do that ^^ since that requires whole guides, that isn't be covered here.
+    TODO: Explain how to do that ^^ since that requires whole guides, that isn't covered here on this 1st go-around.
 
 Right now that you have access to git and can pull from/push to your repos on GitHub let's continue with how to create/update/re-arrange content for the TurtleCoin wiki.
 
@@ -26,9 +26,9 @@ This guides purpose is to break down the barrier that exists to get from "I want
 
 ### Defintions
 
-repo = git repository
-wiki repo = the git repository that powers the wiki tab in a GitHub repo
-PR = pull request
+repo = git repository  
+wiki repo = the git repository that powers the wiki tab in a GitHub repo  
+PR = pull request  
 
 GitHub's base thing that we interact with on the site is a repo. This gets a bit confusing, however, once you're familiar it no longer causes issues. we can break down the URL and see how it works as well
 
