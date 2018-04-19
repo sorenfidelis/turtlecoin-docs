@@ -1,6 +1,5 @@
-# How to contribute to the TurtleCoin wiki
-
 You ideally need to install git _(command line interface needed, none of the GUIs I've used allow access to all the commands being used)_ and be able to push and pull from your repo.
+
     TODO: Explain how to do that ^^ since that requires whole guides, that isn't be covered here.
 
 Right now that you have access to git and can pull and push to your repos on GitHub let's continue with how to create/update/re-arrange content for the TurtleCoin wiki.
