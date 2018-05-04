@@ -34,7 +34,7 @@ GitHub's base thing that we interact with on the site is a repo. This gets a bit
 
 https://github.com/turtlecoin/turtlecoin-wiki
 
-turtlecoin = the github user or organisation
+turtlecoin = the github user or organisation  
 turtlecoin-wiki = repo
 
 Furthermore, we care about the code tab and the wiki tab on GitHub. When the guide refers to the repo, it is a reference to the git repo on your computer _(a directory)_ or the code tab on the GitHub website for your repo _(confusing right...)_
