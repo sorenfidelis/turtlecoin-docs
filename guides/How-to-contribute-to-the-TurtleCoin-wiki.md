@@ -39,6 +39,8 @@ turtlecoin-wiki = repo
 
 Furthermore, we care about the code tab and the wiki tab on GitHub. When the guide refers to the repo, it is a reference to the git repo on your computer _(a directory)_ or the code tab on the GitHub website for your repo _(confusing right...)_
 
+    TODO: Add a graphic, screnshot ought to clarify this
+
 # The commands/workflow process
 
 These are the commands and the workflow. Further down in the guide why and explanations and scenarios will be covered. Once understood and you need a reminder of what to do, this is the section you'll be looking for and wanting a quick fix. So it is covered first. Furthermore the commands are in order, deviating from the order will give interesting results. Again this is a how to guide to get from "I want to contribute" to "check out my PR", rather than how to git guide. For the later read [Pro git](https://git-scm.com/book).
